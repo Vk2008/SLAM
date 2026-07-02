@@ -93,4 +93,4 @@ ros2 run rtabmap_slam rtabmap \
 
 ## 📑 Attribution & Credits
 
-This repository was developed as a Summer Project under AeroClub, IIT Delhi. The original work can be found at [Parent Repository Name](https://github.com/abhishekjain1612006/AeroClub-SLAM).
+This repository was developed as a Summer Project under AeroClub, IIT Delhi. The original work can be found at [AeroClub-SLAM](https://github.com/abhishekjain1612006/AeroClub-SLAM).
